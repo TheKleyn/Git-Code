@@ -9,7 +9,11 @@
 <body>
     <h3>why is this not updating</h3>
     <h2>blah blah</h2>
+<<<<<<< HEAD
     <H1>I changed ghe heading Tuesday</H1>
+=======
+    <H1>New Heading added!</H1>
+>>>>>>> fab5e05398998b303d396c3ac0943a8e2d3df71b
     <p>this is a test for git</p>
     
 </body>
